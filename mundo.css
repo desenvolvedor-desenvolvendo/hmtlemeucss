@@ -44,8 +44,9 @@ header > div{
 div{
     border: solid 4px   rgb(255, 255, 255) ;
     border-radius:4px 4px ;
-    margin: -15px 2px;
+    margin: -15px 10px 2px 2px;
     padding: 6px;
+    
    
 }
 
@@ -63,7 +64,7 @@ div> a{
     font-style:  unset;  
     margin: 7px;
     text-decoration: none;
-   padding: 10px 5px;
+   padding: 10px 10px;
    
 }
 header{
