@@ -85,7 +85,7 @@ div.video{
 padding-bottom: 54%;
     position: relative;
   
-    background-color:rgb(49, 110, 8); ;
+    background-color:rgb(255, 255, 255); ;
 }
 
 div.video > iframe{
@@ -104,7 +104,7 @@ main{
 
  height:auto;
 
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
     box-shadow: rgba(0, 0, 0, 0.199) 0px 6px 6px 10px;
   width:90%; 
   margin: auto;
@@ -150,9 +150,9 @@ main > h2{
     
     
     img{
-        height: 220px;
+        height:3%;
         border-radius: 10px;
-        border: solid rgba(59, 252, 0, 0.342) 2px;
+       
      width: 55%;
         display: block;
         margin: auto;
@@ -178,7 +178,7 @@ main > h2{
       
       .cima{
         margin: -27px 20px; 
-      
+      box-shadow: 0px 0px 18px 10px rgba(0, 0, 0, 0.349) ;
         width:auto;
         height: auto;
         margin-top: 60px;
@@ -227,8 +227,6 @@ font-family: "Oswald";
 }
 
 ul{columns: 2;}
-
-
 
 
 
